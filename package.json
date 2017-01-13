@@ -11,5 +11,8 @@
     "boilerplate"
   ],
   "author": "Michael Maier",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "2.1.5"
+  }
 }
