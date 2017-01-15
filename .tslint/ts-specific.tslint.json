@@ -4,6 +4,7 @@
     "member-access": false,
     "member-ordering": [false],
     "no-any": false,
+    "no-empty-interface": false,
     "no-internal-module": true,
     "prefer-for-of": true,
     "promise-function-async": false,
