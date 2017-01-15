@@ -14,6 +14,7 @@
     "only-arrow-functions": [false],
     "prefer-for-of": true,
     "promise-function-async": false,
+    "typedef": [false],
     "typedef-whitespace": [
       true,
       {
