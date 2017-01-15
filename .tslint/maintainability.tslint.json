@@ -16,6 +16,10 @@
       true,
       1
     ],
+    "max-file-line-count": [
+      true,
+      300
+    ],
     "no-trailing-whitespace": true
   }
 }
