@@ -1,5 +1,9 @@
 {
   "rules": {
+    "cyclomatic-complexity": [
+      true,
+      20
+    ],
     "indent": [
       true,
       "spaces"
