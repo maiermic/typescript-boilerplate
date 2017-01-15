@@ -6,6 +6,7 @@
     "import-blacklist": [true],
     "label-position": true,
     "no-arg": true,
+    "no-bitwise": true,
     "no-eval": true,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
