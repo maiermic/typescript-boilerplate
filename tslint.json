@@ -1,5 +1,6 @@
 {
   "rules": {
+    "adjacent-overload-signatures": true,
     "class-name": true,
     "comment-format": [
       true,
