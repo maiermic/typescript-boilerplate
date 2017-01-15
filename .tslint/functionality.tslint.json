@@ -8,6 +8,7 @@
     "no-arg": true,
     "no-bitwise": true,
     "no-conditional-assignment": true,
+    "no-console": [false],
     "no-eval": true,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
