@@ -3,6 +3,7 @@
     "adjacent-overload-signatures": true,
     "member-access": false,
     "member-ordering": [false],
+    "no-any": false,
     "no-internal-module": true,
     "prefer-for-of": true,
     "promise-function-async": false,
