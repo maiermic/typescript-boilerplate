@@ -27,6 +27,7 @@
     "file-header": [
       false
     ],
+    "import-spacing": true,
     "one-line": [
       true,
       "check-open-brace",
