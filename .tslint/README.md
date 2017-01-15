@@ -26,6 +26,7 @@ confusing constructs that are prone to producing bugs.
 
 - [no-for-in-array](https://palantir.github.io/tslint/rules/no-for-in-array/)
 - [no-inferred-empty-object-type](https://palantir.github.io/tslint/rules/no-inferred-empty-object-type/)
+- [no-void-expression](https://palantir.github.io/tslint/rules/no-void-expression/)
 
 ## maintainability.tslint.json
 

@@ -28,6 +28,7 @@
     "no-unused-variable": true,
     "no-use-before-declare": true,
     "no-var-keyword": true,
+    "no-void-expression": false,
     "triple-equals": [
       true,
       "allow-null-check"
