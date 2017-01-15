@@ -19,6 +19,22 @@
             </SchemaInfo>
           </value>
         </entry>
+        <entry key="tslint">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="tslint" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="*tslint.json" />
+                    <option name="pattern" value="true" />
+                  </Item>
+                </list>
+              </option>
+              <option name="relativePathToSchema" value=".tslint/schema.json" />
+            </SchemaInfo>
+          </value>
+        </entry>
       </map>
     </state>
   </component>
