@@ -9,6 +9,7 @@
     "no-bitwise": true,
     "no-conditional-assignment": true,
     "no-console": [false],
+    "no-construct": true,
     "no-eval": true,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
