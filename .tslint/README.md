@@ -2,12 +2,12 @@
 
 Rules are split into categories defined in the [documentation][tslint rules].
 
-**Note:** Rules that require type checking are disabled,
+**Note:** Rules that require [type checking][type checking] are disabled,
 since this feature is not supported by every IDE.
 Those rules are listed below (in each category).
 
 [tslint rules]: https://palantir.github.io/tslint/rules/
-
+[type checking]: https://github.com/palantir/tslint#type-checking
 
 ## ts-specific.tslint.json
 
