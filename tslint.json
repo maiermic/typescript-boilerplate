@@ -51,6 +51,7 @@
         "variable-declaration": "onespace"
       }
     ],
+    "unified-signatures": true,
     "variable-name": [
       true,
       "ban-keywords"
