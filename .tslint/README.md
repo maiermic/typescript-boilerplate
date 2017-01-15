@@ -25,6 +25,7 @@ confusing constructs that are prone to producing bugs.
 **Rules that are disabled because they require type checking:**
 
 - [no-for-in-array](https://palantir.github.io/tslint/rules/no-for-in-array/)
+- [no-inferred-empty-object-type](https://palantir.github.io/tslint/rules/no-inferred-empty-object-type/)
 
 ## maintainability.tslint.json
 

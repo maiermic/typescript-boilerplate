@@ -15,6 +15,7 @@
     "no-empty": true,
     "no-eval": true,
     "no-for-in-array": false,
+    "no-inferred-empty-object-type": false,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
     "triple-equals": [
