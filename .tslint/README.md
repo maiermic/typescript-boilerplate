@@ -22,6 +22,9 @@ TypeScript Specific rules find errors related to TypeScript features.
 Functionality rules catch common errors in JS programming or otherwise
 confusing constructs that are prone to producing bugs.
 
+**Rules that are disabled because they require type checking:**
+
+- `no-for-in-array`
 
 ## maintainability.tslint.json
 
