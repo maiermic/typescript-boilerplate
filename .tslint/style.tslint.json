@@ -34,6 +34,7 @@
     ],
     "interface-over-type-literal": true,
     "jsdoc-format": true,
+    "new-parens": true,
     "one-line": [
       true,
       "check-open-brace",
