@@ -11,6 +11,7 @@
     "no-namespace": false,
     "no-reference": false,
     "no-var-requires": false,
+    "only-arrow-functions": [false],
     "prefer-for-of": true,
     "promise-function-async": false,
     "typedef-whitespace": [
