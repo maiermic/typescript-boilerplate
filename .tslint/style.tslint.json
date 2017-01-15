@@ -64,7 +64,9 @@
     ],
     "quotemark": [
       true,
-      "double"
+      "single",
+      "jsx-double",
+      "avoid-escape"
     ],
     "semicolon": [
       true,
