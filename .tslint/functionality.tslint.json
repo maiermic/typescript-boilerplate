@@ -1,5 +1,6 @@
 {
   "rules": {
+    "ban": [false],
     "curly": true,
     "no-eval": true,
     "no-unsafe-finally": true,
