@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "diagnostics": true,
+    "inlineSourceMap": true,
+    "listEmittedFiles": true,
+    "listFiles": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "traceResolution": true
+  }
+}
