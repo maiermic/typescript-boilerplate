@@ -51,6 +51,10 @@
       "check-open-brace",
       "check-whitespace"
     ],
+    "one-variable-per-declaration": [
+      true,
+      "ignore-for-loop"
+    ],
     "quotemark": [
       true,
       "double"
