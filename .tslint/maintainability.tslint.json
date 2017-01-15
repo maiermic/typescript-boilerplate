@@ -9,6 +9,9 @@
       true,
       "spaces"
     ],
+    "linebreak-style": [
+      false
+    ],
     "no-trailing-whitespace": true
   }
 }
