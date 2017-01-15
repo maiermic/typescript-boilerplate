@@ -3,10 +3,10 @@
   <component name="JsonSchemaMappingsProjectConfiguration">
     <state>
       <map>
-        <entry key="schema">
+        <entry key="tsconfig">
           <value>
             <SchemaInfo>
-              <option name="name" value="schema" />
+              <option name="name" value="tsconfig" />
               <option name="patterns">
                 <list>
                   <Item>
