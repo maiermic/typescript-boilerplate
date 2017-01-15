@@ -4,6 +4,7 @@
     "curly": true,
     "forin": true,
     "import-blacklist": [true],
+    "label-position": true,
     "no-eval": true,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
