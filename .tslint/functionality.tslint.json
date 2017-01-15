@@ -17,6 +17,7 @@
     "no-for-in-array": false,
     "no-inferred-empty-object-type": false,
     "no-invalid-this": true,
+    "no-null-keyword": false,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
     "triple-equals": [
