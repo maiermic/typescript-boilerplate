@@ -28,6 +28,10 @@
       false
     ],
     "import-spacing": true,
+    "interface-name": [
+      true,
+      "never-prefix"
+    ],
     "one-line": [
       true,
       "check-open-brace",
