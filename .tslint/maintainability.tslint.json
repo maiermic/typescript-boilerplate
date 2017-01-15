@@ -27,6 +27,7 @@
     "no-default-export": true,
     "no-mergeable-namespace": true,
     "no-require-imports": false,
-    "no-trailing-whitespace": true
+    "no-trailing-whitespace": true,
+    "object-literal-sort-keys": true
   }
 }
