@@ -5,6 +5,7 @@
     "forin": true,
     "import-blacklist": [true],
     "label-position": true,
+    "no-arg": true,
     "no-eval": true,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
