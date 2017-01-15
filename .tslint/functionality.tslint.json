@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "curly": true,
+    "no-eval": true,
+    "no-unsafe-finally": true,
+    "no-var-keyword": true,
+    "triple-equals": [
+      true,
+      "allow-null-check"
+    ]
+  }
+}
