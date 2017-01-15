@@ -24,6 +24,7 @@
       true,
       80
     ],
+    "no-default-export": true,
     "no-trailing-whitespace": true
   }
 }
