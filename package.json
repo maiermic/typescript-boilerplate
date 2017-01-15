@@ -12,7 +12,7 @@
     "boilerplate"
   ],
   "author": "Michael Maier",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "tslint": "4.3.1",
     "typescript": "2.1.5"
