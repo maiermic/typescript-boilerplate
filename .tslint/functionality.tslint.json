@@ -31,6 +31,7 @@
     "no-void-expression": false,
     "radix": true,
     "restrict-plus-operands": false,
+    "strict-boolean-expressions": false,
     "triple-equals": [
       true,
       "allow-null-check"

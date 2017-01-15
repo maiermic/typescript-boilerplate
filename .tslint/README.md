@@ -28,6 +28,8 @@ confusing constructs that are prone to producing bugs.
 - [no-inferred-empty-object-type](https://palantir.github.io/tslint/rules/no-inferred-empty-object-type/)
 - [no-void-expression](https://palantir.github.io/tslint/rules/no-void-expression/)
 - [restrict-plus-operands](https://palantir.github.io/tslint/rules/restrict-plus-operands/)
+- [restrict-plus-operands](https://palantir.github.io/tslint/rules/restrict-plus-operands/)
+- [strict-boolean-expressions](https://palantir.github.io/tslint/rules/strict-boolean-expressions/)
 
 ## maintainability.tslint.json
 
