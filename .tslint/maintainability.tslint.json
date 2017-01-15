@@ -28,6 +28,7 @@
     "no-mergeable-namespace": true,
     "no-require-imports": false,
     "no-trailing-whitespace": true,
-    "object-literal-sort-keys": true
+    "object-literal-sort-keys": true,
+    "prefer-const": true
   }
 }
