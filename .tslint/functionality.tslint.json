@@ -3,6 +3,7 @@
     "ban": [false],
     "curly": true,
     "forin": true,
+    "import-blacklist": [true],
     "no-eval": true,
     "no-unsafe-finally": true,
     "no-var-keyword": true,
