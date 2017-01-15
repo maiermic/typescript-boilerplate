@@ -24,6 +24,9 @@
       "methods",
       "properties"
     ],
+    "file-header": [
+      false
+    ],
     "one-line": [
       true,
       "check-open-brace",
