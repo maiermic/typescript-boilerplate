@@ -25,6 +25,7 @@
       80
     ],
     "no-default-export": true,
+    "no-mergeable-namespace": true,
     "no-trailing-whitespace": true
   }
 }
