@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "./.tslint/functionality.tslint.json",
+    "./.tslint/maintainability.tslint.json",
+    "./.tslint/style.tslint.json",
+    "./.tslint/ts-specific.tslint.json"
+  ]
+}

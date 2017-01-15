@@ -1,0 +1,47 @@
+{
+  "rules": {
+    "ban": [
+      false
+    ],
+    "curly": true,
+    "forin": true,
+    "import-blacklist": [
+      true
+    ],
+    "label-position": true,
+    "no-arg": true,
+    "no-bitwise": true,
+    "no-conditional-assignment": true,
+    "no-console": [
+      false
+    ],
+    "no-construct": true,
+    "no-debugger": true,
+    "no-duplicate-variable": true,
+    "no-empty": true,
+    "no-eval": true,
+    "no-for-in-array": false,
+    "no-inferred-empty-object-type": false,
+    "no-invalid-this": true,
+    "no-null-keyword": false,
+    "no-shadowed-variable": true,
+    "no-string-literal": true,
+    "no-string-throw": true,
+    "no-switch-case-fall-through": true,
+    "no-unsafe-finally": true,
+    "no-unused-expression": true,
+    "no-unused-new": true,
+    "no-use-before-declare": true,
+    "no-var-keyword": true,
+    "no-void-expression": false,
+    "radix": true,
+    "restrict-plus-operands": false,
+    "strict-boolean-expressions": false,
+    "switch-default": true,
+    "triple-equals": [
+      true
+    ],
+    "typeof-compare": true,
+    "use-isnan": true
+  }
+}

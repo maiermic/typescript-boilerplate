@@ -1,0 +1,45 @@
+{
+  "rules": {
+    "adjacent-overload-signatures": true,
+    "member-access": false,
+    "member-ordering": [
+      false
+    ],
+    "no-any": false,
+    "no-empty-interface": false,
+    "no-inferrable-types": [
+      false
+    ],
+    "no-internal-module": true,
+    "no-magic-numbers": false,
+    "no-namespace": false,
+    "no-reference": false,
+    "no-var-requires": false,
+    "only-arrow-functions": [
+      false
+    ],
+    "prefer-for-of": true,
+    "promise-function-async": false,
+    "typedef": [
+      false
+    ],
+    "typedef-whitespace": [
+      true,
+      {
+        "call-signature": "nospace",
+        "index-signature": "nospace",
+        "parameter": "nospace",
+        "property-declaration": "nospace",
+        "variable-declaration": "nospace"
+      },
+      {
+        "call-signature": "onespace",
+        "index-signature": "onespace",
+        "parameter": "onespace",
+        "property-declaration": "onespace",
+        "variable-declaration": "onespace"
+      }
+    ],
+    "unified-signatures": true
+  }
+}
