@@ -33,6 +33,7 @@
       "never-prefix"
     ],
     "interface-over-type-literal": true,
+    "jsdoc-format": true,
     "one-line": [
       true,
       "check-open-brace",
