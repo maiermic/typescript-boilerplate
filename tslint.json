@@ -20,6 +20,7 @@
       "check-open-brace",
       "check-whitespace"
     ],
+    "prefer-for-of": true,
     "quotemark": [
       true,
       "double"
