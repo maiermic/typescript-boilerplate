@@ -17,6 +17,13 @@
       true,
       "check-space"
     ],
+    "completed-docs": [
+      true,
+      "classes",
+      "functions",
+      "methods",
+      "properties"
+    ],
     "one-line": [
       true,
       "check-open-brace",
