@@ -29,6 +29,7 @@
     "no-use-before-declare": true,
     "no-var-keyword": true,
     "no-void-expression": false,
+    "radix": true,
     "triple-equals": [
       true,
       "allow-null-check"
