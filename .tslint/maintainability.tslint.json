@@ -20,6 +20,10 @@
       true,
       300
     ],
+    "max-line-length": [
+      true,
+      80
+    ],
     "no-trailing-whitespace": true
   }
 }
