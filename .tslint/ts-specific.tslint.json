@@ -5,6 +5,7 @@
     "member-ordering": [false],
     "no-any": false,
     "no-empty-interface": false,
+    "no-inferrable-types": [false],
     "no-internal-module": true,
     "prefer-for-of": true,
     "promise-function-async": false,
