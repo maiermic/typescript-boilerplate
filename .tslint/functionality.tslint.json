@@ -35,6 +35,7 @@
     "triple-equals": [
       true
     ],
-    "typeof-compare": true
+    "typeof-compare": true,
+    "use-isnan": true
   }
 }
