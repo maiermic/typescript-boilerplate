@@ -32,6 +32,7 @@
     "radix": true,
     "restrict-plus-operands": false,
     "strict-boolean-expressions": false,
+    "switch-default": true,
     "triple-equals": [
       true,
       "allow-null-check"
