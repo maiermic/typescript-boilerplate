@@ -4,6 +4,7 @@
       true,
       20
     ],
+    "eofline": true,
     "indent": [
       true,
       "spaces"
