@@ -15,7 +15,7 @@ TypeScript Specific rules find errors related to TypeScript features.
 
 **Rules that are disabled because they require type checking:**
 
-- `promise-function-async`
+- [promise-function-async](https://palantir.github.io/tslint/rules/promise-function-async/)
 
 ## functionality.tslint.json
 
@@ -24,7 +24,7 @@ confusing constructs that are prone to producing bugs.
 
 **Rules that are disabled because they require type checking:**
 
-- `no-for-in-array`
+- [no-for-in-array](https://palantir.github.io/tslint/rules/no-for-in-array/)
 
 ## maintainability.tslint.json
 
