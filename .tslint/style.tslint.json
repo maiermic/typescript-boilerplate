@@ -6,6 +6,10 @@
       "parameters",
       "statements"
     ],
+    "array-type": [
+      true,
+      "array-simple"
+    ],
     "class-name": true,
     "comment-format": [
       true,
