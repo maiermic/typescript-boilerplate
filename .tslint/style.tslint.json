@@ -45,6 +45,7 @@
       true,
       "as-needed"
     ],
+    "object-literal-shorthand": true,
     "one-line": [
       true,
       "check-open-brace",
