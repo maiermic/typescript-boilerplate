@@ -38,3 +38,5 @@ Maintainability rules make code maintenance easier.
 ## style.tslint.json
 
 Style rules enforce consistent style across your codebase.
+
+- [completed-docs](https://palantir.github.io/tslint/rules/completed-docs/)

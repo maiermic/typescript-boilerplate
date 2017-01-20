@@ -17,13 +17,6 @@
       true,
       "check-space"
     ],
-    "completed-docs": [
-      true,
-      "classes",
-      "functions",
-      "methods",
-      "properties"
-    ],
     "file-header": [
       false
     ],
